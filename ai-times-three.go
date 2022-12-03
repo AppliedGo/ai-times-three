@@ -30,7 +30,7 @@ tags = ["AI", "Hash Table", "Machine Learning", "Neural Network"]
 articletypes = ["Tutorial"]
 +++
 
-Writing a hashmap in Go is dead easy, even an AI can do it! To prove this, I had three AI tools write this blog article, generate Go code, and create an opening image.
+Writing a concurrency-safe hashmap in Go is dead easy, even an AI can do it! To prove this, I had three AI tools write this blog article, generate Go code, and create an opening image.
 
 <!--more-->
 
@@ -55,7 +55,7 @@ The only input from my side were the prompts for the AI engines. And I added a f
 
 > My prompts and my comments look like this. Everything else is AI output.
 
-The generated article starts below this line. Have fun!
+My goal was to get a complete article about a concurrency-safe hash table in Go. The generated article starts below this line. Have fun!
 
 ___
 
