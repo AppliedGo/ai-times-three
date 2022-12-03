@@ -286,7 +286,7 @@ func TestTable(t *testing.T) {
 		}
 	})
 
-	// > This one is wrong. It's essentially the same code as the Keys test. But `Get(v)` is nonsense. To test if all values are present in the map, the test needs to iterate over the map to find each value.
+	// > This one is wrong. It's essentially the same code as the Keys test. But `Get(v)` is incorrect. To test if all values are present in the map, the test needs to iterate over the map to find each value.
 	t.Run("Values", func(t *testing.T) {
 		t.Parallel()
 		tbl := cohash.New[string, int]()
