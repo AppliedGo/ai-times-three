@@ -62,7 +62,7 @@ ___
 > Cyan gopher dieselpunk mad scientist comic style
 
 ![Cyan gopher dieselpunk mad scientist comic style](ai-times-three.png)
-
+ 
 > What is a hash table?
 
 A hash table is a data structure that stores key-value pairs. It uses a hash function to compute an index into an array of buckets or slots, from which the desired value can be found. Hash tables are used for fast lookups, additions and deletions of data items, and can be used to implement associative arrays, sets, and caches.
