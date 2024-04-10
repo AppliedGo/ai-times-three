@@ -366,4 +366,4 @@ Speaking of training data, I have the feeling that neither OpenAI nor Stability 
 
 ## Further reading
 
-My first excursion into AI with Go resulted in creating a [single artificial neuron](https://appliedgo.net/perceptron). That's a start, isn't it? And it works! 
+My first excursion into AI with Go resulted in creating a [single artificial neuron]({{< ref "/perceptron" >}}). That's a start, isn't it? And it works! 
